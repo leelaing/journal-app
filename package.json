@@ -1,0 +1,12 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "Journaling app",
+  "main": "js/app.js",
+  "repository": "https://github.com/leelaing/journal-app.git",
+  "author": "Lee Laing <big2tiny@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
